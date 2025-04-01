@@ -142,6 +142,7 @@ ol {
   display: flex;
   align-items: center;
   cursor: pointer;
+  gap: 1.5px;
 }
 
 .search-form__textfield {
@@ -185,6 +186,7 @@ ol {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
+  float: right;
 }
 
 .button:focus-visible {
