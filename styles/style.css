@@ -271,7 +271,7 @@ ol {
 
 .content__video-card-thumbnail {
   flex-shrink: 0;
-  align-self: flex-end;
+  align-self: flex-start; /* спасибо большое за подсказку )  */
   width: 194px;
   height: 103px;
   object-fit: cover;
